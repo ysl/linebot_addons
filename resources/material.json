@@ -1,0 +1,1307 @@
+{
+  "gender": {
+    "male": [],
+    "female": [],
+    "unisex": []
+  },
+  "face": {
+    "1": {
+    },
+    "2": {
+    },
+    "3": {
+    },
+    "4": {
+    },
+    "5": {
+    }
+  },
+  "skin": {
+    "1": {
+    },
+    "2": {
+    },
+    "3": {
+    },
+    "4": {
+    },
+    "5": {
+    }
+  },
+  "hair": {
+    "f1": {
+    },
+    "f2": {
+    },
+    "f3": {
+    },
+    "f4": {
+    },
+    "f5": {
+    },
+    "m1": {
+    },
+    "m2": {
+    },
+    "m3": {
+    },
+    "m4": {
+    },
+    "m5": {
+    },
+    "1": {
+    },
+    "2": {
+    },
+    "3": {
+    },
+    "4": {
+    },
+    "5": {
+    },
+    "6": {
+    },
+    "7": {
+    },
+    "8": {
+    },
+    "9": {
+    },
+    "10": {
+    },
+    "11": {
+    }
+  },
+  "hair-tail": {
+    "f1": {
+    },
+    "f2": {
+    },
+    "f3": {
+    },
+    "f4": {
+    },
+    "f5": {
+    },
+    "m1": {
+    },
+    "m2": {
+    },
+    "m3": {
+    },
+    "m4": {
+    },
+    "m5": {
+    },
+    "1": {
+    },
+    "2": {
+    },
+    "3": {
+    },
+    "4": {
+    },
+    "5": {
+    },
+    "6": {
+    },
+    "7": {
+    },
+    "8": {
+    },
+    "9": {
+    },
+    "10": {
+    },
+    "11": {
+    }
+  },
+  "clothes": {
+    "f1": {
+      "productName": "VANS X SANDY LIANG\n聯名女款夾克",
+      "tags": ["服飾", "外套"]
+    },
+    "f2": {
+      "productName": "VANS X SANDY LIANG\n聯名女款連帽衛衣",
+      "tags": ["服飾", "帽T"]
+    },
+    "f3": {
+      "productName": "女款夾克",
+      "tags": ["服飾", "襯衫"]
+    },
+    "f4": {
+      "productName": "女款夾克",
+      "tags": ["服飾", "襯衫"]
+    },
+    "f5": {
+      "productName": "女款套頭衛衣",
+      "tags": ["服飾", "衛衣"]
+    },
+    "f6": {
+      "productName": "女款開襟連帽衛衣",
+      "tags": ["服飾", "外套"]
+    },
+    "f7": {
+      "productName": "女款開襟連帽衛衣",
+      "tags": ["服飾", "外套"]
+    },
+    "f8": {
+      "productName": "女款連帽衛衣",
+      "tags": ["服飾", "帽T"]
+    },
+    "f9": {
+      "productName": "女款連帽衛衣",
+      "tags": ["服飾", "帽Ｔ"]
+    },
+    "f10": {
+      "productName": "女長袖襯衫",
+      "tags": ["服飾", "襯衫"]
+    },
+    "f11": {
+      "productName": "女款連帽衛衣",
+      "tags": ["服飾", "帽T"]
+    },
+    "f12": {
+      "productName": "女款套頭衛衣",
+      "tags": ["服飾", "外套"]
+    },
+    "f13": {
+      "productName": "男女夾克",
+      "tags": ["服飾", "外套"]
+    },
+    "f14": {
+      "productName": "男女夾克",
+      "tags": ["服飾", "外套"]
+    },
+    "f15": {
+      "productName": "女款羽絨服",
+      "tags": ["服飾", "羽絨服"]
+    },
+    "f16": {
+      "productName": "男女夾克",
+      "tags": ["服飾", "外套"]
+    },
+    "m1": {
+      "productName": "男女套頭衛衣",
+      "tags": ["服飾", "衛衣"]
+    },
+    "m2": {
+      "productName": "男女套頭衛衣",
+      "tags": ["服飾", "衛衣"]
+    },
+    "m3": {
+      "productName": "男女夾克",
+      "tags": ["服飾", "襯衫"]
+    },
+    "m4": {
+      "productName": "男款夾克",
+      "tags": ["服飾", "外套"]
+    },
+    "m5": {
+      "productName": "男女連帽衛衣",
+      "tags": ["服飾", "帽T"]
+    },
+    "m6": {
+      "productName": "VANS X SANDY LIANG\n聯名男女連帽衛衣",
+      "tags": ["服飾", "帽T"]
+    },
+    "m7": {
+      "productName": "VANS X SANDY LIANG\n聯名男女短袖T恤",
+      "tags": ["服飾", "T恤"]
+    },
+    "m8": {
+      "productName": "男女短袖T恤",
+      "tags": ["服飾", "T恤"]
+    },
+    "m9": {
+      "productName": "男女連帽衛衣",
+      "tags": ["服飾", "帽T"]
+    },
+    "m10": {
+      "productName": "男女夾克",
+      "tags": ["服飾", "外套"]
+    },
+    "1": {
+      "productName": "VANS X SANDY LIANG\n聯名女款夾克",
+      "tags": ["服飾", "外套"]
+    },
+    "2": {
+      "productName": "VANS X SANDY LIANG\n聯名女款連帽衛衣",
+      "tags": ["服飾", "外套"]
+    },
+    "3": {
+      "productName": "VANS X SANDY LIANG\n聯名男女連帽衛衣",
+      "tags": ["服飾", "帽T"]
+    },
+    "4": {
+      "productName": "VANS X SANDY LIANG\n聯名男女短袖T恤",
+      "tags": ["服飾", "T恤"]
+    },
+    "5": {
+      "productName": "女長袖襯衫",
+      "tags": ["服飾", "襯衫"]
+    },
+    "6": {
+      "productName": "女款連帽衛衣",
+      "tags": ["服飾", "帽T"]
+    },
+    "7": {
+      "productName": "女款夾克",
+      "tags": ["服飾", "襯衫"]
+    },
+    "8": {
+      "productName": "女款夾克",
+      "tags": ["服飾", "襯衫"]
+    },
+    "9": {
+      "productName": "女款套頭衛衣",
+      "tags": ["服飾", "衛衣"]
+    },
+    "10": {
+      "productName": "女款開襟連帽衛衣",
+      "tags": ["服飾", "外套"]
+    },
+    "11": {
+      "productName": "男女夾克",
+      "tags": ["服飾", "外套"]
+    },
+    "12": {
+      "productName": "女款開襟連帽衛衣",
+      "tags": ["服飾", "外套"]
+    },
+    "13": {
+      "productName": "男女連帽衛衣",
+      "tags": ["服飾", "帽T"]
+    },
+    "14": {
+      "productName": "男款夾克",
+      "tags": ["服飾", "外套"]
+    },
+    "15": {
+      "productName": "男女套頭衛衣",
+      "tags": ["服飾", "衛衣"]
+    },
+    "16": {
+      "productName": "男女夾克",
+      "tags": ["服飾", "襯衫"]
+    },
+    "17": {
+      "productName": "男女夾克",
+      "tags": ["服飾", "外套"]
+    },
+    "18": {
+      "productName": "男女夾克",
+      "tags": ["服飾", "外套"]
+    },
+    "19": {
+      "productName": "女款連帽衛衣",
+      "tags": ["服飾", "帽T"]
+    },
+    "20": {
+      "productName": "男女短袖T恤",
+      "tags": ["服飾", "T恤"]
+    },
+    "21": {
+      "productName": "男女套頭衛衣",
+      "tags": ["服飾", "衛衣"]
+    },
+    "22": {
+      "productName": "女款連帽衛衣",
+      "tags": ["服飾", "帽T"]
+    }
+  },
+  "pants": {
+    "f1": {
+      "productName": "男女款深藍色長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "f2": {
+      "productName": "女款梭織長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "f3": {
+      "productName": "女款針織長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "f4": {
+      "productName": "男女款燕麥色長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "f5": {
+      "productName": "女款針織長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "f6": {
+      "productName": "女款針織長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "m1": {
+      "productName": "男女款深藍色長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "m2": {
+      "productName": "女款針織長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "m3": {
+      "productName": "男女款燕麥色長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "m4": {
+      "productName": "男女款咖啡色長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "m5": {
+      "productName": "男款梭織長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "m6": {
+      "productName": "男款針織長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "m7": {
+      "productName": "女款針織長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "1": {
+      "productName": "女款針織長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "2": {
+      "productName": "女款梭織長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "3": {
+      "productName": "男款針織長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "4": {
+      "productName": "男女款深藍色長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "5": {
+      "productName": "女款針織長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "6": {
+      "productName": "男女款咖啡色長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "7": {
+      "productName": "男款梭織長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "8": {
+      "productName": "男女款燕麥色長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "9": {
+      "productName": "女款針織長褲",
+      "tags": ["服飾", "長褲"]
+    },
+    "10": {
+      "productName": "女款針織長褲",
+      "tags": ["服飾", "長褲"]
+    }
+  },
+  "shoes": {
+    "f1": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "f2": {
+      "productName": "SK8-HI\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "f3": {
+      "productName": "SK8-MID REISSUE\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 MID REISSUE"]
+    },
+    "f4": {
+      "productName": "VANS X CRAYOLA聯名 AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "VANS X CRAYOLA聯名 AUTHENTIC"]
+    },
+    "f5": {
+      "productName": "安納海姆 STYLE #36\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "f6": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "f7": {
+      "productName": "Old Skool 板鞋運動鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "f8": {
+      "productName": "男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "f9": {
+      "productName": "STYLE 36 DECON SF\n男女板鞋",
+      "tags": ["鞋款", "STYLE 36 DECON SF"]
+    },
+    "f10": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "f11": {
+      "productName": "VANS X CRAYOLA 聯名AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "VANS X CRAYOLA 聯名 AUTHENTIC"]
+    },
+    "f12": {
+      "productName": "CLASSIC SLIP-ON\n男女帆布鞋",
+      "tags": ["鞋款", "SLIP ON"]
+    },
+    "f13": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "f14": {
+      "productName": "Old Skool 男女板鞋運動鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "f15": {
+      "productName": "ERA\n男女板鞋運動鞋",
+      "tags": ["鞋款", "ERA"]
+    },
+    "f16": {
+      "productName": "Old Skool 男女板鞋運動鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "f17": {
+      "productName": "SK8- HI 男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "f18": {
+      "productName": "SK8- HI TAPERED\n男女帆布鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "f19": {
+      "productName": "VANS X CRAYOLA聯名SK8-HI\n男女帆布鞋",
+      "tags": ["鞋款", "VANS X CRAYOLA聯名SK8-HI"]
+    },
+    "f20": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "f21": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "f22": {
+      "productName": "SK8-HI TAPERED\n男女帆布鞋",
+      "tags": ["鞋款", "SK8 HI TAPERED"]
+    },
+    "f23": {
+      "productName": "安納海姆STYLE #98\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 98"]
+    },
+    "f24": {
+      "productName": "SKATE HALF CAB 男女板鞋運動鞋",
+      "tags": ["鞋款", "HALF CAB"]
+    },
+    "f25": {
+      "productName": "Old Skool 男女滑板鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "f26": {
+      "productName": "安納海姆STYLE#44\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 44"]
+    },
+    "f27": {
+      "productName": "SK8-HI MTE-2\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI MTE 2"]
+    },
+    "f28": {
+      "productName": "安納海姆STYLE#44\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 44"]
+    },
+    "f29": {
+      "productName": "AUTHENTIC 男女板鞋運動鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "f30": {
+      "productName": "STYLE 36\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "f31": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "f32": {
+      "productName": "安納海姆STYLE#38\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 38"]
+    },
+    "f33": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "f34": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "f35": {
+      "productName": "SK8- HI 男女帆布鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "f36": {
+      "productName": "SK8- HI\n男女帆布鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "f37": {
+      "productName": "SK8- HI\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "f38": {
+      "productName": "AUTHENTIC 男女板鞋運動鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "f39": {
+      "productName": "VANS X CRAYOLA聯名CLASSIC\nSLIP-ON男女帆布鞋",
+      "tags": ["鞋款", "VANS X CRAYOLA 聯名SLIP ON"]
+    },
+    "f40": {
+      "productName": "OLD SKOOL\n男女板鞋運動鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "f41": {
+      "productName": "SENTRY OLD SKOOL WC\n男女帆布鞋",
+      "tags": ["鞋款", "SENTRY OLD SKOOL WC"]
+    },
+    "f42": {
+      "productName": "ERA\n男女帆布鞋",
+      "tags": ["鞋款", "ERA"]
+    },
+    "f43": {
+      "productName": "SKATE HALF CAB ‘92\n男女職業滑板鞋",
+      "tags": ["鞋款", "HALF CAB 92"]
+    },
+    "f44": {
+      "productName": "SKATE HALF CAB ‘92\n男女職業滑板鞋",
+      "tags": ["鞋款", "HALF CAB 92"]
+    },
+    "f45": {
+      "productName": "SK8- HI 男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "f46": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "f47": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "f48": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "f49": {
+      "productName": "STYLE 36 DECON SF\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 36 DECON SF"]
+    },
+    "f50": {
+      "productName": "STYLE 36 DECON SF\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36 DECON SF"]
+    },
+    "f51": {
+      "productName": "SK8-MID\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 MID"]
+    },
+    "f52": {
+      "productName": "SK8- HI\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "f53": {
+      "productName": "SK8- HI 138 DECON SF\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "f54": {
+      "productName": "SK8- HI TAPERED\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "f55": {
+      "productName": "安納海姆STYLE #44\n男女款帆布鞋板鞋",
+      "tags": ["鞋款", "STYLE 44"]
+    },
+    "f56": {
+      "productName": "安納海姆STYLE #44\n男女款帆布鞋板鞋",
+      "tags": ["鞋款", "STYLE 44"]
+    },
+    "m1": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "m2": {
+      "productName": "SK8-HI\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "m3": {
+      "productName": "SK8-MID REISSUE\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 MID REISSUE"]
+    },
+    "m4": {
+      "productName": "VANS X CRAYOLA聯名 AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "VANS X CRAYOLA聯名 AUTHENTIC"]
+    },
+    "m5": {
+      "productName": "安納海姆 STYLE #36\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "m6": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "m7": {
+      "productName": "Old Skool 板鞋運動鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "m8": {
+      "productName": "男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "m9": {
+      "productName": "STYLE 36 DECON SF\n男女板鞋",
+      "tags": ["鞋款", "STYLE 36 DECON SF"]
+    },
+    "m10": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "m11": {
+      "productName": "VANS X CRAYOLA 聯名AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "VANS X CRAYOLA 聯名AUTHENTIC"]
+    },
+    "m12": {
+      "productName": "CLASSIC SLIP-ON\n男女帆布鞋",
+      "tags": ["鞋款", "SLIP-ON"]
+    },
+    "m13": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "m14": {
+      "productName": "Old Skool 男女板鞋運動鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "m15": {
+      "productName": "Old Skool 男女板鞋運動鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "m16": {
+      "productName": "SK8- HI 男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "m17": {
+      "productName": "SK8- HI 男女帆布鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "m18": {
+      "productName": "VANS X CRAYOLA聯名SK8-HI\n男女帆布鞋",
+      "tags": ["鞋款", "VANS X CRAYOLA聯名SK8-HI"]
+    },
+    "m19": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "m20": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "m21": {
+      "productName": "SK8- HI TAPERED\n男女帆布鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "m22": {
+      "productName": "安納海姆STYLE #98\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 98"]
+    },
+    "m23": {
+      "productName": "SKATE HALF CAB 男女板鞋運動鞋",
+      "tags": ["鞋款", "HALF CAB"]
+    },
+    "m24": {
+      "productName": "Old Skool 男女滑板鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "m25": {
+      "productName": "AUTHENTIC 男女板鞋運動鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "m26": {
+      "productName": "STYLE 36\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "m27": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "m28": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "m29": {
+      "productName": "AUTHENTIC 男女板鞋運動鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "m30": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "m31": {
+      "productName": "安納海姆STYLE#44\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 44"]
+    },
+    "m32": {
+      "productName": "STYLE 36 DECON SF\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 36 DECON SF"]
+    },
+    "m33": {
+      "productName": "安納海姆STYLE#44\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 44"]
+    },
+    "m34": {
+      "productName": "SK8- HI 男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "m35": {
+      "productName": "SK8- HI 男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "m36": {
+      "productName": "ERA\n男女板鞋運動鞋",
+      "tags": ["鞋款", "ERA"]
+    },
+    "m37": {
+      "productName": "SK8-HI\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "m38": {
+      "productName": "SKATE HALF CAB ‘92\n男女職業滑板鞋",
+      "tags": ["鞋款", "HALF CAB 92"]
+    },
+    "m39": {
+      "productName": "AUTHENTIC 男女板鞋運動鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "m40": {
+      "productName": "VANS X CRAYOLA聯名CLASSIC SLIP-ON\n男女帆布鞋",
+      "tags": ["鞋款", "VANS X CRAYOLA聯名CLASSIC SLIP-ON"]
+    },
+    "m41": {
+      "productName": "OLD SKOOL\n男女板鞋運動鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "m42": {
+      "productName": "SENTRY OLD SKOOL WC\n男女帆布鞋",
+      "tags": ["鞋款", "SENTRY OLD SKOOL WC"]
+    },
+    "m43": {
+      "productName": "ERA\n男女帆布鞋",
+      "tags": ["鞋款", "ERA"]
+    },
+    "m44": {
+      "productName": "STYLE 36 DECON SF\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36 DECON SF"]
+    },
+    "m45": {
+      "productName": "SK8-MID\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 MID"]
+    },
+    "m46": {
+      "productName": "SK8- HI\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "m47": {
+      "productName": "SK8- HI 138 DECON SF\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "m48": {
+      "productName": "SK8- HI TAPERED\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "m49": {
+      "productName": "安納海姆STYLE #44\n男女款帆布鞋板鞋",
+      "tags": ["鞋款", "STYLE 44"]
+    },
+    "m50": {
+      "productName": "安納海姆STYLE #44\n男女款帆布鞋板鞋",
+      "tags": ["鞋款", "STYLE 44"]
+    },
+    "m51": {
+      "productName": "SKATE HALF CAB ‘92\n男女職業滑板鞋",
+      "tags": ["鞋款", "HALF CAB 92"]
+    },
+    "m52": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "m53": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "m54": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "1": {
+      "productName": "Old Skool 男女滑板鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "2": {
+      "productName": "SK8-HI\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "3": {
+      "productName": "SK8-MID REISSUE\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 MID REISSUE"]
+    },
+    "4": {
+      "productName": "VANS X CRAYOLA聯名 AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "VANS X CRAYOLA聯名 AUTHENTIC"]
+    },
+    "5": {
+      "productName": "安納海姆 STYLE #36\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "6": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "7": {
+      "productName": "Old Skool 板鞋運動鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "8": {
+      "productName": "男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "9": {
+      "productName": "LE 36 DECON SF\n男女板鞋",
+      "tags": ["鞋款", "STYLE 36 DECON SF"]
+    },
+    "10": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "11": {
+      "productName": "VANS X CRAYOLA 聯名AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "VANS X CRAYOLA 聯名AUTHENTIC"]
+    },
+    "12": {
+      "productName": "CLASSIC SLIP-ON\n男女帆布鞋",
+      "tags": ["鞋款", "CLASSIC SLIP-ON"]
+    },
+    "13": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "14": {
+      "productName": "Old Skool 男女板鞋運動鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "15": {
+      "eeeproductName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "16": {
+      "productName": "Old Skool 男女板鞋運動鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "17": {
+      "productName": "SK8- HI 男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "18": {
+      "productName": "SK8- HI TAPERED\n男女帆布鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "19": {
+      "productName": "SK8- HI 男女帆布鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "20": {
+      "productName": "VANS X CRAYOLA聯名SK8-HI\n男女帆布鞋",
+      "tags": ["鞋款", "VANS X CRAYOLA聯名SK8 HI"]
+    },
+    "21": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "22": {
+      "productName": "AUTHENTIC 男女板鞋運動鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "23": {
+      "productName": "ERA\n男女板鞋運動鞋",
+      "tags": ["鞋款", "ERA"]
+    },
+    "24": {
+      "productName": "SKATE HALF CAB ‘92\n男女職業滑板鞋",
+      "tags": ["鞋款", "HALF CAB 92"]
+    },
+    "25": {
+      "productName": "安納海姆STYLE #98\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 98"]
+    },
+    "26": {
+      "productName": "SKATE HALF CAB 男女板鞋運動鞋",
+      "tags": ["鞋款", "HALF CAB"]
+    },
+    "27": {
+      "productName": "SKATE HALF CAB ‘92\n男女職業滑板鞋",
+      "tags": ["鞋款", "HALF CAB 92"]
+    },
+    "28": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "29": {
+      "productName": "SK8-HI\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "30": {
+      "productName": "安納海姆STYLE#44\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 44"]
+    },
+    "31": {
+      "productName": "AUTHENTIC 男女板鞋運動鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "32": {
+      "productName": "VANS X CRAYOLA聯名CLASSIC\nSLIP-ON男女帆布鞋",
+      "tags": ["鞋款", "VANS X CRAYOLA 聯名SLIP ON"]
+    },
+    "33": {
+      "productName": "OLD SKOOL\n男女板鞋運動鞋",
+      "tags": ["鞋款", "OLD SKOOL"]
+    },
+    "34": {
+      "productName": "SENTRY OLD SKOOL WC\n男女帆布鞋",
+      "tags": ["鞋款", "SENTRY OLD SKOOL WC"]
+    },
+    "35": {
+      "productName": "ERA\n男女帆布鞋",
+      "tags": ["鞋款", "ERA"]
+    },
+    "36": {
+      "productName": "STYLE 36 DECON SF\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36 DECON SF"]
+    },
+    "37": {
+      "productName": "SK8-MID\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 MID"]
+    },
+    "38": {
+      "productName": "SK8- HI\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "39": {
+      "productName": "SK8- HI 138 DECON SF\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "40": {
+      "productName": "SK8- HI TAPERED\n男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "41": {
+      "productName": "安納海姆STYLE #44\n男女款帆布鞋板鞋",
+      "tags": ["鞋款", "STYLE 44"]
+    },
+    "42": {
+      "productName": "安納海姆STYLE #44\n男女款帆布鞋板鞋",
+      "tags": ["鞋款", "STYLE 44"]
+    },
+    "43": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "44": {
+      "productName": "STYLE 36\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "45": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "46": {
+      "productName": "AUTHENTIC\n男女帆布鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "47": {
+      "productName": "AUTHENTIC 男女板鞋運動鞋",
+      "tags": ["鞋款", "AUTHENTIC"]
+    },
+    "48": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "49": {
+      "productName": "STYLE 36 DECON SF\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 36 DECON SF"]
+    },
+    "50": {
+      "productName": "安納海姆STYLE#44\n男女帆布鞋",
+      "tags": ["鞋款", "STYLE 44"]
+    },
+    "51": {
+      "productName": "SK8- HI 男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "52": {
+      "productName": "SK8- HI 男女板鞋運動鞋",
+      "tags": ["鞋款", "SK8 HI"]
+    },
+    "53": {
+      "productName": "STYLE 36\n男女板鞋運動鞋",
+      "tags": ["鞋款", "STYLE 36"]
+    },
+    "tw-1": {
+      "productName": "【台灣限定款】\nVans Old Skool \n男女款白色滑板鞋",
+      "tags": ["鞋款", "OLD SKOOL"],
+      "url": "https://www.vans.com.tw/SalePage/Index/7715612",
+      "products": [1, 2, 3, 4, 5]
+    },
+    "tw-2": {
+      "productName": "【台灣限定款】\nVans Sk8-Hi 男女款海軍藍色滑板鞋",
+      "tags": ["鞋款", "SK8 HI"],
+      "url": "https://www.vans.com.tw/SalePage/Index/7715616",
+      "products": [1, 2, 3, 4, 5]
+    },
+    "tw-3": {
+      "productName": "【台灣限定款】\nVans Authentic 44 DX \n男女款黑白色滑板鞋",
+      "tags": ["鞋款", "AUTHENTIC"],
+      "url": "https://www.vans.com.tw/SalePage/Index/7810611",
+      "products": [1, 2, 3, 4, 5]
+    },
+    "tw-4": {
+      "productName": "【台灣限定款】\nVans Authentic 44 DX \n男女款橙色棋盤格滑板鞋",
+      "tags": ["鞋款", "AUTHENTIC"],
+      "url": "https://www.vans.com.tw/SalePage/Index/7911031",
+      "products": [1, 2, 3, 4, 5]
+    },
+    "tw-5": {
+      "productName": "【台灣限定款】\nVans Classic Slip-On \n男女款黑白棋盤格滑板鞋",
+      "tags": ["鞋款", "SLIP ON"],
+      "url": "https://www.vans.com.tw/SalePage/Index/7812996",
+      "products": [1, 2, 3, 4, 5]
+    },
+    "tw-6": {
+      "productName": "【台灣限定款】\nVans Authentic 44 DX \n男女款黑白棋盤格滑板鞋",
+      "tags": ["鞋款", "AUTHENTIC"],
+      "url": "https://www.vans.com.tw/SalePage/Index/7810610",
+      "products": [1, 2, 3, 4, 5]
+    },
+    "tw-7": {
+      "productName": "【台灣限定款】\nVans x ANAHEIM OG FLORAL Authentic 44 DX \n男女款海軍藍碎花紋滑板鞋",
+      "tags": ["鞋款", "AUTHENTIC"],
+      "url": "https://www.vans.com.tw/SalePage/Index/7911055",
+      "products": [1, 2, 3, 4, 5]
+    },
+    "tw-9": {
+      "productName": "【台灣限定款】\nVans Old Skool 36 DX \n男女款黑白棋盤格滑板鞋",
+      "tags": ["鞋款", "OLD SKOOL"],
+      "url": "https://www.vans.com.tw/SalePage/Index/7810613",
+      "products": [1, 2, 3, 4, 5]
+    },
+    "tw-10": {
+      "productName": "【台灣限定款】\nVans Style 36 Decon VR3 SF \n男女款拼色滑板鞋",
+      "tags": ["鞋款", "Style 36"],
+      "url": "https://www.vans.com.tw/SalePage/Index/7919643",
+      "products": [1, 2, 3, 4, 5]
+    },
+    "tw-11": {
+      "productName": "【台灣限定款】\nVans Style 36 Decon VR3 SF \n男女款米棕色滑板鞋",
+      "tags": ["鞋款", "Style 36"],
+      "url": "https://www.vans.com.tw/SalePage/Index/7919644",
+      "products": [1, 2, 3, 4, 5]
+    }
+  },
+  "hat": {
+    "f1": {
+      "productName": "男子針織帽",
+      "tags": ["配件", "帽子"]
+    },
+    "f2": {
+      "productName": "女款漁夫帽",
+      "tags": ["配件", "帽子"]
+    },
+    "f3": {
+      "productName": "VANS X SANDY LIANG\n聯名女款漁夫帽",
+      "tags": ["配件", "帽子"]
+    },
+    "m1": {
+      "productName": "女款漁夫帽",
+      "tags": ["配件", "帽子"]
+    },
+    "m2": {
+      "productName": "男子針織帽",
+      "tags": ["配件", "帽子"]
+    },
+    "m3": {
+      "productName": "VANS X SANDY LIANG\n聯名女款漁夫帽",
+      "tags": ["配件", "帽子"]
+    },
+    "1": {
+      "productName": "女款漁夫帽",
+      "tags": ["配件", "帽子"]
+    },
+    "2": {
+      "productName": "VANS X SANDY LIANG\n聯名女款漁夫帽",
+      "tags": ["配件", "帽子"]
+    },
+    "3": {
+      "productName": "男子針織帽",
+      "tags": ["配件", "帽子"]
+    },
+    "tw-1": {
+      "productName": "【台灣限定款】\nVans Court Side \n男女款粉紅色鴨舌帽",
+      "tags": ["配件", "帽子"],
+      "url": "https://www.vans.com.tw/SalePage/Index/7842855",
+      "products": [1, 2, 3]
+    }
+  },
+  "bag": {
+    "f1": {
+      "productName": "女款腰包",
+      "tags": ["配件", "背包"]
+    },
+    "f2": {
+      "productName": "VANS X SANDY LIANG\n聯名男女斜跨包",
+      "tags": ["配件", "背包"]
+    },
+    "f3": {
+      "productName": "女款托特包",
+      "tags": ["配件", "背包"]
+    },
+    "f4": {
+      "productName": "VANS X SANDY LIANG\n聯名女款斜跨包",
+      "tags": ["配件", "背包"]
+    },
+    "f5": {
+      "productName": "男女斜跨包",
+      "tags": ["配件", "背包"]
+    },
+    "f6": {
+      "productName": "男女印花斜跨包",
+      "tags": ["配件", "背包"]
+    },
+    "m1": {
+      "productName": "男女斜跨包",
+      "tags": ["配件", "背包"]
+    },
+    "m2": {
+      "productName": "男女印花斜跨包",
+      "tags": ["配件", "背包"]
+    },
+    "m3": {
+      "productName": "女款腰包",
+      "tags": ["配件", "背包"]
+    },
+    "m4": {
+      "productName": "VANS X SANDY LIANG\n聯名男女斜跨包",
+      "tags": ["配件", "背包"]
+    },
+    "m5": {
+      "productName": "女款托特包",
+      "tags": ["配件", "背包"]
+    },
+    "m6": {
+      "productName": "VANS X SANDY LIANG\n聯名女款斜跨包",
+      "tags": ["配件", "背包"]
+    },
+    "1": {
+      "productName": "VANS X SANDY LIANG\n聯名女款斜跨包",
+      "tags": ["配件", "背包"]
+    },
+    "2": {
+      "productName": "VANS X SANDY LIANG\n聯名男女斜跨包",
+      "tags": ["配件", "背包"]
+    },
+    "3": {
+      "productName": "女款腰包",
+      "tags": ["配件", "背包"]
+    },
+    "4": {
+      "productName": "男女斜跨包",
+      "tags": ["配件", "背包"]
+    },
+    "5": {
+      "productName": "男女印花斜跨包",
+      "tags": ["配件", "背包"]
+    },
+    "tw-1": {
+      "productName": "【台灣限定款】\nVans Ranger \n男女款黑白棋盤格腰包",
+      "tags": ["配件", "包包"],
+      "url": "https://www.vans.com.tw/SalePage/Index/7812971",
+      "products": [1, 2, 3]
+    }
+  },
+  "bg": {
+    "1": {
+      "width": 960,
+      "height": 2079,
+      "footerColor": "#5f6065"
+    },
+    "2": {
+      "width": 960,
+      "height": 2079,
+      "footerColor": "#984a4a"
+    },
+    "3": {
+      "width": 960,
+      "height": 2079,
+      "footerColor": "#189f88"
+    },
+    "4": {
+      "width": 960,
+      "height": 2079,
+      "footerColor": "#fad781"
+    },
+    "tw-1": {
+      "width": 960,
+      "height": 2079,
+      "footerColor": "#71665f"
+    },
+    "tw-2": {
+      "width": 960,
+      "height": 2079,
+      "footerColor": "#939499"
+    }
+  },
+  "sticker": {
+    "1": {
+      "width":314.5,
+      "height": 195
+    },
+    "2": {
+      "width":240,
+      "height": 226
+    },
+    "3": {
+      "width":230,
+      "height": 240
+    },
+    "4": {
+      "width":240,
+      "height": 124
+    },
+    "5": {
+      "width": 240,
+      "height": 173.5
+    },
+    "6": {
+      "width": 193.5,
+      "height": 240
+    },
+    "7": {
+      "width": 201,
+      "height": 240
+    },
+    "8": {
+      "width": 240,
+      "height": 240
+    }
+  }
+}

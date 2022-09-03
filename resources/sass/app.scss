@@ -1,0 +1,89 @@
+// Fonts
+// @import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Fix iphone white space apears at bottom.
+body {
+  overflow: hidden;
+  height: 100vh;
+  user-select: none;
+}
+#app {
+  overflow: scroll;
+}
+
+// Animation for mute button.
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+// Animation for avatar
+$head-offset-y: 4%;
+$head-scale: 1.7;
+$shoes-offset-y: -20%;
+$shoes-scale: 1.7;
+@keyframes zoom-face-to-body {
+  from { transform: scale($head-scale) translateY($head-offset-y); }
+  to { transform: scale(1) translateY(0); }
+}
+@keyframes zoom-face-to-shoes {
+  from { transform: scale($head-scale) translateY($head-offset-y); }
+  to { transform: scale($shoes-scale) translateY($shoes-offset-y); }
+}
+@keyframes zoom-body-to-face {
+  from { transform: scale(1) translateY(0); }
+  to { transform: scale($head-scale) translateY($head-offset-y); }
+}
+@keyframes zoom-body-to-shoes {
+  from { transform: scale(1) translateY(0); }
+  to { transform: scale($shoes-scale) translateY($shoes-offset-y); }
+}
+@keyframes zoom-shoes-to-body {
+  from { transform: scale($shoes-scale) translateY($shoes-offset-y); }
+  to { transform: scale(1) translateY(0); }
+}
+@keyframes zoom-shoes-to-face {
+  from { transform: scale($shoes-scale) translateY($shoes-offset-y); }
+  to { transform: scale($head-scale) translateY($head-offset-y); }
+}
+
+.zoom-face-to-body {
+  animation: zoom-face-to-body 1 0.5s linear;
+  transform: scale(1) translateY(0);
+}
+.zoom-face-to-shoes {
+  animation: zoom-face-to-shoes 1 0.5s linear;
+  transform: scale($shoes-scale) translateY($shoes-offset-y);
+}
+.zoom-body-to-face {
+  animation: zoom-body-to-face 1 0.5s linear;
+  transform: scale($head-scale) translateY($head-offset-y);
+}
+.zoom-body-to-shoes {
+  animation: zoom-body-to-shoes 1 0.5s linear;
+  transform: scale($shoes-scale) translateY($shoes-offset-y);
+}
+.zoom-shoes-to-body {
+  animation: zoom-shoes-to-body 1 0.5s linear;
+  transform: scale(1) translateY(0);
+}
+.zoom-shoes-to-face {
+  animation: zoom-shoes-to-face 1 0.5s linear;
+  transform: scale($head-scale) translateY($head-offset-y);
+}
+
+@keyframes my-scale {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(0.9);
+  }
+}
