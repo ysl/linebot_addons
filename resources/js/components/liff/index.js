@@ -6,6 +6,7 @@ import liff from '@line/liff';
 import queryString from 'query-string';
 import { LiffProvider, LiffContext } from './liff-context';
 import Entry from './entry/index';
+import ScrollVideo from './scroll-video/index';
 
 var parsedQueryString = {};
 
@@ -116,6 +117,7 @@ function LiffRoot(props) {
       {liffState.me ?
         <Switch>
           <Route path="/" exact component={Entry} />
+          <Route path="/scroll_video" exact component={ScrollVideo} />
         </Switch>
         :
         null
