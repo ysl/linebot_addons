@@ -4,12 +4,12 @@
         <meta charset="utf-8">
         <meta name="csrf-token" content="{{ csrf_token() }}">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-        <title>HERMES LINE ACCOUNT</title>
+        <title>LINEBOT ADDONS</title>
         <link rel="stylesheet" href="{{ mix('css/app.css') }}?ver={{ $appVer }}" type="text/css" />
         <style type="text/css">
-            #__vconsole {
+            /* #__vconsole {
                 display: none;
-            }
+            } */
             @font-face {
                 font-family: 'Honoka Mincho';
                 font-style: normal;
