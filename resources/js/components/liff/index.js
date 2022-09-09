@@ -8,6 +8,7 @@ import { LiffProvider, LiffContext } from './liff-context';
 import Entry from './entry/index';
 import ScrollVideo from './scroll-video/index';
 import Mic from './mic/index';
+import Shake from './shake/index';
 
 var parsedQueryString = {};
 
@@ -120,6 +121,7 @@ function LiffRoot(props) {
           <Route path="/" exact component={Entry} />
           <Route path="/scroll_video" component={ScrollVideo} />
           <Route path="/mic" component={Mic} />
+          <Route path="/shake" component={Shake} />
         </Switch>
         :
         null
